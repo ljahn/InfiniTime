@@ -5,5 +5,19 @@
       "output_format": "bin",
       "binary_format": "ARGB8565_RBSWAP",
       "target_path": "/images/"
+   },
+   "startrek_bracket_left" : {
+      "sources": "images/startrek_bracket_left.png",
+      "color_format": "CF_TRUE_COLOR",
+      "output_format": "bin",
+      "binary_format": "ARGB8565_RBSWAP",
+      "target_path": "/images/"
+   },
+   "startrek_bracket_right" : {
+      "sources": "images/startrek_bracket_right.png",
+      "color_format": "CF_TRUE_COLOR",
+      "output_format": "bin",
+      "binary_format": "ARGB8565_RBSWAP",
+      "target_path": "/images/"
    }
 }
